@@ -1,8 +1,5 @@
-<h1> Hello Hello~ </h1>
-
-I'm <b> sleepinbed~</b> Thanks for stopping by. :)
-
-I'm a student, I'm interested in a lot of things, but mainly hardware design & tinkering, low level programming, and RF.
+<h1> Hello Hello </h1>
+I'm a student at the University of Belgrade, I'm interested in a lot of things, but mainly hardware design & tinkering, low level programming, and RF.
 Aircraft are really cool too.
 I love games, and I'd like to make one!
 
